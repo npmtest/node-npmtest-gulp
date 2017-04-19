@@ -59,7 +59,7 @@
 <tspan x="10" y="906">  │ └─┬ vinyl@0.5.3 </tspan>
 <tspan x="10" y="922">  │   ├── clone@1.0.2 </tspan>
 <tspan x="10" y="938">  │   └── clone-stats@0.0.1 </tspan>
-<tspan x="10" y="954">  ├── interpret@1.0.2 </tspan>
+<tspan x="10" y="954">  ├── interpret@1.0.3 </tspan>
 <tspan x="10" y="970">  ├─┬ liftoff@2.3.0 </tspan>
 <tspan x="10" y="986">  │ ├── extend@3.0.0 </tspan>
 <tspan x="10" y="1002">  │ ├─┬ findup-sync@0.4.3 </tspan>
@@ -69,7 +69,7 @@
 <tspan x="10" y="1066">  │ │ │ └── is-extglob@1.0.0 </tspan>
 <tspan x="10" y="1082">  │ │ ├─┬ micromatch@2.3.11 </tspan>
 <tspan x="10" y="1098">  │ │ │ ├─┬ arr-diff@2.0.0 </tspan>
-<tspan x="10" y="1114">  │ │ │ │ └── arr-flatten@1.0.2 </tspan>
+<tspan x="10" y="1114">  │ │ │ │ └── arr-flatten@1.0.3 </tspan>
 <tspan x="10" y="1130">  │ │ │ ├── array-unique@0.2.1 </tspan>
 <tspan x="10" y="1146">  │ │ │ ├─┬ braces@1.8.5 </tspan>
 <tspan x="10" y="1162">  │ │ │ │ ├─┬ expand-range@1.8.2 </tspan>
@@ -140,7 +140,7 @@
 <tspan x="10" y="2202">  ├── semver@4.3.6 </tspan>
 <tspan x="10" y="2218">  ├─┬ tildify@1.2.0 </tspan>
 <tspan x="10" y="2234">  │ └── os-homedir@1.0.2 </tspan>
-<tspan x="10" y="2250">  ├─┬ v8flags@2.0.12 </tspan>
+<tspan x="10" y="2250">  ├─┬ v8flags@2.1.1 </tspan>
 <tspan x="10" y="2266">  │ └── user-home@1.1.1 </tspan>
 <tspan x="10" y="2282">  └─┬ vinyl-fs@0.3.14 </tspan>
 <tspan x="10" y="2298">    ├── defaults@1.0.3 </tspan>
